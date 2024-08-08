@@ -1,4 +1,4 @@
-# TestTask_Mindbox
+# TestItem_Mindbox
 My first repository on GitHub.
 
 
