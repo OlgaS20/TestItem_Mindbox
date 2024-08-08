@@ -1,5 +1,4 @@
 # TestItem_Mindbox
-My first repository on GitHub.
 
 **Test item:**<br />
 There is a form on the website that calculates the possibility of obtaining a Russian passport based on age, in accordance with current legislation.
